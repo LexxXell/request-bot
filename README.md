@@ -41,4 +41,4 @@ It is recommended to use pm2 to run the bot in production.
 ## Project Team
 
 - [LexxXell](https://t.me/lexxxell) — Back-End Engineer
-- [Den Kravchu](https://denkravchu.com) - Front-end Blockchain developer, web 2d/3d animations developer
+- [Den Kravchu](https://denkravchu.com) — Front-end Blockchain developer, web 2d/3d animations developer
