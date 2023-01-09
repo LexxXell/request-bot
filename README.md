@@ -5,7 +5,7 @@ The bot is designed to redirect requests coming to the web server to the Telegra
 - [Technologies](#Technologies)
 - [Usage](#usage)
 - [Deploy и CI/CD](#deploy-и-ci/cd)
-- [Команда проекта](#Project Team)
+- [Project Team](#project-team)
 
 ## Technologies
 - [ExpressJS](https://expressjs.com/)
