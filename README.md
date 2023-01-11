@@ -35,7 +35,9 @@ The bot accepts the post request to the port specified in the .env file, and red
 
 ## Deploy и CI/CD
 It is recommended to use pm2 to run the bot in production.
-
+```sh
+$ pm2 start src/index.js --name=<process_name>
+```
 
 ## Project Team
 
