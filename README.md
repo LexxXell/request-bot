@@ -37,7 +37,6 @@ The bot accepts the post request to the port specified in the .env file, and red
 It is recommended to use pm2 to run the bot in production.
 
 
-
 ## Project Team
 
 - [LexxXell](https://t.me/lexxxell) — Back-End Engineer
