@@ -8,6 +8,7 @@ The bot is designed to redirect requests coming to the web server to the Telegra
 - [Project Team](#project-team)
 
 ## Technologies
+- [NodeJS](https://nodejs.org/)
 - [ExpressJS](https://expressjs.com/)
 - [Cors](https://github.com/expressjs/cors#readme)
 - [dotenv](https://github.com/motdotla/dotenv#readme)
