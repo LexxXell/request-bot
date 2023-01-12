@@ -31,7 +31,6 @@ Run the bot:
 ```sh
 $ yarn dev
 ```
-
 The bot accepts the post request to the port specified in the .env file, and redirects it to the chat specified in the .env file.
 
 ## Deploy и CI/CD
