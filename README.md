@@ -27,7 +27,7 @@ $ yarn
 ```
 
 Rename the .env.example file to .env and modify it to suit your needs.
-'''
+```
 PORT - port on which the web interface will be hosted
 
 BOT_TOKEN - bot token obtained from BotFather
@@ -41,7 +41,7 @@ IP_WHITE_LIST - IP addresses separated by spaces
 USE_ORIGIN_GUARD - use IP origin 0=false, 1=true
 
 ORIGIN_WHITE_LIST - Domain names (including http or https) separated by spaces
-'''
+```
 
 Run the bot:
 ```sh
